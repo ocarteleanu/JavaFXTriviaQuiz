@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/Fx"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/octavian/.p2/pool/plugins/org.eclipse.fx.ide.css.jfx8_2.4.0.201605112122.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/octavian/Desktop/sqlite-jdbc-3.27.2.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
